@@ -12,7 +12,7 @@ class FoodApplication: DaggerApplication() {
         Log.d(TAG, " >>> FoodApplication Created")
 
         if (BuildConfig.DEBUG) {
-            Log.d(TAG, " >>> Initializing Stetho")
+            Log.d(TAG, " >>> Initializing")
             Stetho.initializeWithDefaults(this)
         }
 
