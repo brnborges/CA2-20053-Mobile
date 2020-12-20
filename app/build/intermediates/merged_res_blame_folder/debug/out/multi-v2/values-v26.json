@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Owner\\Downloads\\CA2-20053-Mobile\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "/Users/pablopatrick/Desktop/CA2-20053-Mobile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Owner\\.gradle\\caches\\transforms-2\\files-2.1\\af317d7b1d72e55e912182e02eed293a\\appcompat-1.0.2\\res\\values-v26\\values-v26.xml",
+                    "source": "/Users/pablopatrick/.gradle/caches/transforms-2/files-2.1/af317d7b1d72e55e912182e02eed293a/appcompat-1.0.2/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

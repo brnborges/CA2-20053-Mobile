@@ -12,7 +12,6 @@ android {
 
     defaultConfig {
         applicationId "com.example.ca2mfusion"
-        //applicationId "com.aman.foodordering"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1

@@ -1,5 +1,5 @@
 package com.example.ca2mfusion.db
-
+//Pablo 19562 and Bruno 20053 -->
 import android.content.Context
 import android.util.Log
 import androidx.room.Database

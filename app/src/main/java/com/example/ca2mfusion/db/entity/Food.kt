@@ -1,5 +1,5 @@
 package com.example.ca2mfusion.db.entity
-
+//Pablo 19562 and Bruno 20053 -->
 import android.os.Parcelable
 import androidx.room.ColumnInfo
 import androidx.room.Entity

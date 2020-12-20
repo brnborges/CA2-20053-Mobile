@@ -1,5 +1,5 @@
 package com.example.ca2mfusion.ui.adapter
-
+//Pablo 19562 and Bruno 20053 -->
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil

@@ -1,5 +1,5 @@
 package com.example.ca2mfusion.ui
-
+//Pablo 19562 and Bruno 20053 -->
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
