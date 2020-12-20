@@ -12,3 +12,4 @@ This a representation of the MFusion app.
 ![Alt text](https://github.com/brnborges/CA2-20053-Mobile/blob/master/img5.png) ![Alt text](https://github.com/brnborges/CA2-20053-Mobile/blob/master/img6.png) ![Alt text](https://github.com/brnborges/CA2-20053-Mobile/blob/master/img7.png) ![Alt text](https://github.com/brnborges/CA2-20053-Mobile/blob/master/img8.png)
 
 ![Alt text](https://cdn.kapwing.com/final_5fdfa94b97e351004483d731_944128.gif)
+![Alt Text](https://kapwi.ng/c/4Il1Ikps)
